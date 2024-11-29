@@ -5,6 +5,9 @@
 ## Descripción
 El dashboard analiza el desempeño financiero y operativo de una empresa de tecnológica, destacando ingresos, beneficios, gastos y márgenes. Organiza datos por marcas, países, clientes y meses, identificando patrones y áreas de mejora. Sus visualizaciones interactivas apoyan decisiones estratégicas de manera clara y efectiva.
 
+![image](https://github.com/user-attachments/assets/deaba3fa-08cd-4664-9cf7-1c3441fdcf17)
+
+
 ## Autor
 **Kevin Pava**
 
