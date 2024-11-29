@@ -15,6 +15,7 @@ El dashboard analiza el desempeño financiero y operativo de una empresa de tecn
 
 ## Instalación
 Power BI Desktop ó Power BI Service (en línea)
+Descargar el Archivo llamado: DashboardAnalisisEmpresa.pbix
 
 ## Contratación
 Si quieres contratarme    
